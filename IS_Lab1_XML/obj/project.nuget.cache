@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rgMbsT7rW7Mp1akmMalzcQNnzpM3Hv7ea1ohaGL4qSj/N/o7nM67eWiLYaZy87u94H/F8lTItt/aV69cQB1MQA==",
+  "success": true,
+  "projectFilePath": "E:\\studia\\integracja systemow\\IS_LAB5\\IS_Lab_NET\\IS_Lab1_XML\\IS_Lab1_XML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milit\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\milit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\milit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\milit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

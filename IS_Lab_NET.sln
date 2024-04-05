@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS_Lab1_XML", "IS_Lab1_XML\IS_Lab1_XML.csproj", "{BFAE6140-C797-48E9-B377-A3D1D291CFCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS_Lab5_SOAPCS", "IS_Lab5_SOAPCS\IS_Lab5_SOAPCS.csproj", "{488665EA-AA8B-4197-ADBA-8C32CE2854E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IS_Lab8_WebApp", "IS_Lab8_WebApp\IS_Lab8_WebApp.csproj", "{3E3EEA2E-CFF2-45C4-8D5A-8F5607F2EAE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFAE6140-C797-48E9-B377-A3D1D291CFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAE6140-C797-48E9-B377-A3D1D291CFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAE6140-C797-48E9-B377-A3D1D291CFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAE6140-C797-48E9-B377-A3D1D291CFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{488665EA-AA8B-4197-ADBA-8C32CE2854E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488665EA-AA8B-4197-ADBA-8C32CE2854E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488665EA-AA8B-4197-ADBA-8C32CE2854E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488665EA-AA8B-4197-ADBA-8C32CE2854E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3EEA2E-CFF2-45C4-8D5A-8F5607F2EAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3EEA2E-CFF2-45C4-8D5A-8F5607F2EAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3EEA2E-CFF2-45C4-8D5A-8F5607F2EAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3EEA2E-CFF2-45C4-8D5A-8F5607F2EAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

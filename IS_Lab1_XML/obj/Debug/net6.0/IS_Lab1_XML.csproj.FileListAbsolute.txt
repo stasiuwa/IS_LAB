@@ -1,0 +1,15 @@
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net6.0\IS_Lab1_XML.exe
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net6.0\Assets\data.xml
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net6.0\IS_Lab1_XML.deps.json
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net6.0\IS_Lab1_XML.runtimeconfig.json
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net6.0\IS_Lab1_XML.dll
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\bin\Debug\net6.0\IS_Lab1_XML.pdb
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net6.0\IS_Lab1_XML.GeneratedMSBuildEditorConfig.editorconfig
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net6.0\IS_Lab1_XML.AssemblyInfoInputs.cache
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net6.0\IS_Lab1_XML.AssemblyInfo.cs
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net6.0\IS_Lab1_XML.csproj.CoreCompileInputs.cache
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net6.0\IS_Lab1_XML.dll
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net6.0\refint\IS_Lab1_XML.dll
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net6.0\IS_Lab1_XML.pdb
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net6.0\IS_Lab1_XML.genruntimeconfig.cache
+E:\studia\integracja systemow\lab1\IS_Lab1_XML\IS_Lab1_XML\obj\Debug\net6.0\ref\IS_Lab1_XML.dll

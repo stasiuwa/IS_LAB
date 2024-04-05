@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IS_Lab8_WebApp.props" />
+</Project>

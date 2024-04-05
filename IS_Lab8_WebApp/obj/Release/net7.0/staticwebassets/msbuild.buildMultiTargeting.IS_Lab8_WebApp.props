@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IS_Lab8_WebApp.props" />
+</Project>

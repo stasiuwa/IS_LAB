@@ -1,0 +1,15 @@
+{
+  "providerId": "Microsoft.Tools.ServiceModel.Svcutil",
+  "version": "2.0.3",
+  "ExtendedData": {
+    "inputs": [
+      "http://localhost:7779/ws/first"
+    ],
+    "namespaceMappings": [
+      "*, IS_Lab5_SOAPCS.MyFirsstWSService"
+    ],
+    "outputFile": "soapReference.cs",
+    "targetFramework": "net7.0",
+    "typeReuseMode": "All"
+  }
+}
