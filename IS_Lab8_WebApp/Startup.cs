@@ -6,13 +6,12 @@ using WebApplication1.Services;
 namespace WebApplication1;
 
 public class Startup {
-
+    
+    public IConfiguration configuration { get;  }
     public Startup(IConfiguration configuration)
     {
         this.configuration = configuration;
     }
-
-    public IConfiguration configuration { get;  }
     
     public void ConfigureServices(IServiceCollection services)
     {
@@ -23,7 +22,8 @@ public class Startup {
             {
                 auth.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
             })
-            .AddJwtBearer(options =>
+           
+ .AddJwtBearer(options =>
             {
                 options.TokenValidationParameters = new TokenValidationParameters
                 {
